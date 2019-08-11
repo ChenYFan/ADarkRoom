@@ -1,4 +1,4 @@
-
+> 有空翻译,现在没空,Fork来自 Continuities/adarkroom
 **NOTE: THIS IS MICHAEL'S PERSONAL FORK OF ADR. THE OFFICIAL REPO CAN NOW BE FOUND AT https://github.com/doublespeakgames/adarkroom**
 
 A Dark Room
