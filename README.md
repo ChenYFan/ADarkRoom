@@ -1,4 +1,4 @@
-**注:这是迈克尔的个人Fork的ADR。官方回购现在可以在https://github.com/doublespeakgames/adarkroom 找到
+> 注:这是迈克尔的个人Fork的ADR。官方回购现在可以在https://github.com/doublespeakgames/adarkroom 找到
 
 A Dark Room | 小黑屋
 ===========
@@ -10,7 +10,7 @@ a minimalist text adventure game for your browser
 
 一款在线的文字游戏
 
-[点此开始玩耍](https://tools.cyfan.ga/adarkroom/?lang=zh_cn
+[点此开始玩耍](https://tools.cyfan.ga/adarkroom/?lang=zh_cn)
 
 我们支持的语言
 
